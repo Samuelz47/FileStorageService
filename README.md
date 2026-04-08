@@ -91,7 +91,7 @@ O **Nginx** atua como reverse proxy: serve os arquivos estáticos do React e red
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/FileStorageService.git
+gh repo clone Samuelz47/FileStorageService
 cd FileStorageService
 ```
 
